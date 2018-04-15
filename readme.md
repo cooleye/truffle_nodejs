@@ -1,4 +1,6 @@
 接上一篇
+
+[获取代码](https://github.com/cooleye/truffle_nodejs)
 # 创建工程
 ```
 mkdir truffle_node
@@ -255,3 +257,7 @@ https://github.com/trufflesuite/truffle-contract/issues/56
 在一个是`then`后边必须写`catch`,否则汇报这个错误
 `//UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)`
 
+
+
+
+[获取代码](https://github.com/cooleye/truffle_nodejs)
